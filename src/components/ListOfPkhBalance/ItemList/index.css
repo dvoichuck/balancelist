@@ -1,0 +1,17 @@
+.item {
+    width: 100%;
+    max-width: 550px;
+}
+
+.pkh {
+    max-width: 410px;
+}
+
+.balance {
+    max-width: 100px;
+}
+
+.deleteButton {
+    max-width: 40px;
+    box-sizing: border-box;
+}
